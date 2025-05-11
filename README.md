@@ -25,7 +25,10 @@ A comparison was made between:
 - HRV computed from **PPG-derived peaks**  
 - HRV based on **IBI (Inter-Beat Interval) values** directly extracted by the E4 device
 
-Results showed that **IBI-based HRV closely resembles** the expected outcomes, more so than those obtained through manual processing of PPG signals.
+Results showed that **IBI-based HRV closely resembles** the expected outcomes, more so than those obtained through manual processing of PPG signals. In the image, time, frequency, and power are plotted against each other for HRV calculated through PPG, and the one given by IBI
+
+<img width="724" alt="image" src="https://github.com/user-attachments/assets/012753cf-68ee-402e-93da-a7ae31e2e5d2" />
+
 
 ---
 
