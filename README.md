@@ -61,5 +61,6 @@ This does not necessarily imply incorrect processing, but it may be **appropriat
 ---
 
 ## References
-
+* Bach, D.R.; Friston, K.J.; Dolan, R.J. An improved algorithm for model-based analysis of evoked skin conductance responses. Biol. Psychol. 2013, 94, 490–497.
+* Liang, Y.; Elgendi, M.; Chen, Z.; Ward, R. (Mayo, 2018). An optimal filter for short photoplethysmogram signals. Nature News. https://www.nature.com/articles/sdata201876#Sec4
 
